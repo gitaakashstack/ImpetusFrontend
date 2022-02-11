@@ -1,0 +1,17 @@
+.LeaderShipCard{
+    background-color: transparent;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.leader{
+    background-color: #fff;
+}
+.leaderTable{
+    width: 100%;
+}
+
+.leaderTable thead{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}

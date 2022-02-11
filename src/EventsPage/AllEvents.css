@@ -1,0 +1,80 @@
+.pageCover9 {
+  background-image: url("./event9img.jpeg");
+  min-width: 100%;
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-attachment: fixed;
+  z-index: 1;
+}
+
+.pageCover8 {
+  background-image: url("./valorant.png");
+  min-width: 100%;
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-attachment: fixed;
+  z-index: 1;
+}
+
+.pageCover10 {
+  background-image: url("./Roadmap - Strategy Design Contest.png");
+  min-width: 100%;
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-attachment: fixed;
+  z-index: 1;
+}
+
+
+@media (max-width: 900px) {
+
+.pageCover9 {
+  background-image: url("./event9img.jpeg");
+  min-width: 100%;
+  height: 40vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+}
+
+.pageCover8 {
+  background-image: url("./valorant.png");
+  min-width: 100%;
+  height: 40vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+}
+
+}
+
+@media (max-width: 500px) {
+  .pageCover9 {
+  background-image: url("./event9img.jpeg");
+  min-width: 100%;
+  height: 30vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+  }
+
+   .pageCover8 {
+  background-image: url("./valorant.png");
+  min-width: 100%;
+  height: 30vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+  }
+  
+}

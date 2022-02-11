@@ -1,0 +1,27 @@
+.eventCard{
+    background: rgba(0, 12, 46, 0.541);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba(29, 10, 10, 0.18);
+    margin: 5%;
+    padding: 5%;
+    transition: all 0.5s ease-in-out;
+}
+.eventCard h1{
+    color: white;
+}
+.eventCard p{
+    color: white;
+}
+.eventCard .link{
+    text-decoration: none;
+    color: rgb(0, 236, 253);
+}
+.eventCard .linkDiv{
+    text-align: right;
+}
+.eventCard:hover{
+    transform: scale(1.05);
+}

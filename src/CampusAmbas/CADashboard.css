@@ -1,0 +1,62 @@
+.campusAmbassFrame {
+  width: 95%;
+  margin: auto;
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.campusBox{
+    width: 100%;
+}
+.CampusTable{
+  width: 90%;
+}
+
+.CampusTable thead {
+    color: white;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+.scoreCard {
+  padding: 6%;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: center;
+  max-width: 50%;
+  margin: auto;
+}
+
+.score {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+.scoredigits {
+  font-weight: bolder;
+  font-size: 4rem;
+}
+
+@media (max-width:940px){
+    .campusAmbassFrame {
+        width: 95%;
+        margin: auto;
+        margin-top: 5%;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+      }
+
+      .CampusTable{
+          width: 120%;
+      }      
+}
+
+@media (max-width:500px){
+    .CampusTable{
+       overflow-x: scroll;
+    }  
+}

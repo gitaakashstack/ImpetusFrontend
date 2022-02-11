@@ -1,0 +1,58 @@
+.SignupForm {
+    margin: auto;
+    width: 45%;
+    padding-top: 5%;
+    background: rgba(0, 0, 0, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding-top: 2%;
+    padding-bottom: 3%;
+    /* height: 110vh; */
+    margin-bottom: 5%;
+  }
+  .verifyBtn{
+    padding: 3%;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border: 1px solid #00f0b4;
+    background-color: transparent;
+    color: white;
+    width: 7rem;
+    transition: all 0.2s ease-in-out;
+    font-size: 1.1rem;
+  }
+  .verifyBtn:hover {
+    transform: scale(1.03);
+    background-color: #00f0b4;
+    color: black;
+    font-weight: bold;
+  }
+  @media (max-width: 900px) {
+    .SignupForm {
+      width: 100%;
+      padding-bottom: 5%;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .SignupForm {
+      width: 100%;
+      padding-bottom: 5%;
+    }
+  }
+  
+  @media (max-width :360px) and (max-height: 823px){
+    .SignupForm {
+      padding-bottom: 5%;
+    }
+  }
+  @media (max-width: 320px) {
+    .SignupForm {
+      padding-bottom: 5%;
+    }
+  }

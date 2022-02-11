@@ -1,0 +1,92 @@
+.pageCover3 {
+    background-image: url("./6.jpg");
+    min-width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+  }
+  .impetusLogo2 {
+    background-image: url("./impetus-logo-navbar.png");
+    min-width: 50%;
+    height: 40vh;
+    position: absolute;
+    z-index: 5;
+    background-repeat: no-repeat;
+    left: 45%;
+  }
+  .registerBtn {
+    padding: 2%;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border: 1px solid #00f0b4;
+    margin-top: 5%;
+    background-color: transparent;
+    color: white;
+    width: 12rem;
+    transition: all 0.2s ease-in-out;
+    font-size: 1.2rem;
+  }
+  .eventDetails{
+    margin: auto;
+    width: 90%;
+    text-align: justify;
+  }
+
+  .eventsSubheadings{
+    color: white;
+    font-size: 26px;
+  }
+
+  .registerBtn:hover{
+    background-color: #00f0b4;
+    color: black;
+    font-weight: bold;
+  }
+
+  .registerDiv{
+    text-align: center;
+  }
+
+ .navigationGrid2 {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }    
+
+@media (max-width:900px){
+  .pageCover3 {
+    background-image: url("./6.jpg");
+    min-width: 100%;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+
+  @media (max-width:420px){
+
+.pageCover3 {
+    background-image: url("./6.jpg");
+    min-width: 100%;
+    height: 30vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+  }
+
+    .about p {
+      font-size: 2rem;
+    }
+  .aboutFirst p {
+    font-size: 1.2rem;
+  }
+  }  

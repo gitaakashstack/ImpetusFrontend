@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+}
+.footer div {
+  /* background-color: red; */
+  width: 100%;
+}
+.footerLinks {
+  color: rgb(21, 73, 168);
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+}

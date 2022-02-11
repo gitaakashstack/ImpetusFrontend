@@ -1,0 +1,31 @@
+.dashboardBody{
+    margin-top: 2%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.graphDiv{
+  text-align: center;
+  width: 90%;
+}
+
+.adminGrid{
+    width: 80%;
+    display: grid;
+    margin: auto;
+    padding-top: 5%;
+    grid-template-columns: repeat(2,1fr);
+    gap: 1%;
+}
+@media (max-width: 900px) {
+  .dashboardBody{
+    margin-top: 2%;
+    height: 90vh;
+}
+    .adminGrid {
+      width: 90%;
+      margin-left: 2%;
+      grid-template-columns: repeat(1, 1fr);
+    }
+    
+  }

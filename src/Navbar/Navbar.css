@@ -1,0 +1,114 @@
+.acerLogo
+{
+    width: 4rem;
+}
+.navlinks{
+    text-decoration: none;
+    color: black;
+}
+.secondCollapse{
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    z-index: 77;
+    display: none;
+    height: 100vh;
+    transition: .5s all ease-in-out;
+    font-size: 1.2rem;
+    font-weight: bold;
+    
+}
+.active {
+    color: rgb(0, 101, 196);
+}
+.Search{
+    width: 2.5rem;
+
+}
+.secondCollapse li{
+    margin-top: 5%;
+    list-style: none;
+}
+.hamburger{
+    display: none;
+}
+.secondNavbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 98%;
+    margin: auto;
+     padding-top: 2%;
+    height: 3rem;
+}
+.secondsecond{
+    width: 60%;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+}
+
+.secondNavbar ul{
+    display: flex;
+}
+.secondNavbar ul li{
+    list-style: none;
+}
+nav{
+    font-size: 100%;
+    color: rgb(102, 102, 102);
+}
+@media (max-width:911px){
+    .secondNavbar ul{
+        display: none;
+    }
+    .acerLogo{
+        width: 5rem;
+    }
+    .secondCollapse{
+        text-align: center;
+        position: absolute;
+        width: 100%;
+        background-color: white;
+        z-index: 77;
+        display: block;
+        height: 100vh;
+        transition: .4s all ease-in-out;
+    }
+    .hamburger{
+        display: block;
+        cursor: pointer;
+    }
+
+    .ham1{
+        width: 2rem;
+        height: .2rem;
+        background-color: rgb(0, 0, 0);
+        margin-bottom: 10%;
+        transition: all 0.3s ease-in-out;
+    }
+    .ham2{
+        width: 2rem;
+        height: .2rem;
+        background-color: rgb(0, 0, 0);
+        margin-bottom: 10%;
+        transition: all 0.3s ease-in-out;
+    }
+    .ham3{
+        width: 2rem;
+        height: .2rem;
+        margin-bottom:10%;
+        background-color: rgb(0, 0, 0);
+        transition: all 0.3s ease-in-out;
+    }
+ }
+
+ @media (max-width:504px){
+     .secondNavbar ul{
+         display: none;
+     }  
+     .hamburger{
+        display: block;
+    }
+ }

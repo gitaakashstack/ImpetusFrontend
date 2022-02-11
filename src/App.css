@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Futura";
+  src: url("./futura/Futura\ Book\ Italic\ font.ttf");
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Futura';
+  box-sizing: border-box;
+}
+
+
+
+@font-face {
+font-family: "Futura";
+src: local("Futura"),
+ url("./futura/futur.ttf") format("truetype");
+font-weight: bold;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 2px;
+  height: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
