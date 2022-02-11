@@ -54,7 +54,7 @@ export default function Event8() {
           setName(d.name);
           setEmail(d.email);
           setPhone(d.phone);
-          setButtonText("Pay Rs.250");
+          setButtonText("Pay Rs.200");
           setLoader(false)
         });
       }
@@ -86,7 +86,7 @@ export default function Event8() {
         amount: data.amount.toString(),
         order_id: data.id,
         name: "Valorant",
-        description: "Thank you for nothing. Please give us some money",
+        description: "Thank you for registering.",
         image: `${process.env.REACT_APP_SERVER}/logo.svg`,
         handler: function (response) {
           if(response.razorpay_payment_id){
@@ -165,7 +165,7 @@ export default function Event8() {
         Open to all.
             </li>
                         <li>
-      Entry Fees (per person) - ₹250/-
+      Entry Fees (per person) - ₹200/-
             </li>
                         <li>
     Prize Money - Rs. 10,000/-.
