@@ -86,7 +86,7 @@ export default function Event10() {
         amount: data.amount.toString(),
         order_id: data.id,
         name: "Roadmap - Strategy Design Contest",
-        description: "Thank you for nothing. Please give us some money",
+        description: "Thank you for registering .",
         image: `${process.env.REACT_APP_SERVER}/logo.svg`,
         handler: function (response) {
           if(response.razorpay_payment_id){
