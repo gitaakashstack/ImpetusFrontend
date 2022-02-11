@@ -54,7 +54,7 @@ export default function Event9() {
           setName(d.name);
           setEmail(d.email);
           setPhone(d.phone);
-          setButtonText("Pay Rs.200");
+          setButtonText("Pay Rs.160");
           setLoader(false)
         });
       }
@@ -86,7 +86,7 @@ export default function Event9() {
         amount: data.amount.toString(),
         order_id: data.id,
         name: "BGMI",
-        description: "Thank you for nothing. Please give us some money",
+        description: "Thank you for registering.",
         image: `${process.env.REACT_APP_SERVER}/logo.svg`,
         handler: function (response) {
           if(response.razorpay_payment_id){
@@ -141,7 +141,7 @@ export default function Event9() {
           <ul className="descriptionOfEventObjectives">
             <li><strong>Pre-requisites:</strong> Required hardware and software setup and proper internet connection</li>
             <li><strong>Number of members per team:</strong> 4 </li>
-            <li><strong>Registration Fees per team :</strong> Rs. 200/-</li>
+            <li><strong>Registration Fees per team :</strong> Rs. 160/-</li>
             <li><strong>Date of Event :</strong> 26th Feb ( 8:45pm to 1 or 2am)</li>
             <li><strong>Number of Rounds:</strong> 3</li>
             <li>
