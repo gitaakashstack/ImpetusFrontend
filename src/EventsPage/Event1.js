@@ -125,7 +125,7 @@ export default function Event1() {
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
            Do you wish to design the future? Or have a profound love for tweaking designs, for visualizing amazing tech? 
-           Well, here's your chance to shine! <br/><br/>Impetus 5.0, in association with SAE, IIEST Shibpur, brings you the much awaited CAD event. So unleash your creativity, put pen to paper (sorry, cursor to screen) and bring to life the smartest designs. 
+           Well, here's your chance to shine! <br/><br/>Impetus 5.0, in association with SAE, IIEST Shibpur, brings you the much awaited CADegorized event. So unleash your creativity, put pen to paper (sorry, cursor to screen) and bring to life the smartest designs. 
           </p>
           <br/>
           <br/>
