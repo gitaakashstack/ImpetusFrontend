@@ -4,6 +4,14 @@ import impetusLogo from "./impetus-logo-navbar copy.png";
 import "./LandingPage.css";
 import { Link, NavLink } from "react-router-dom";
 import Footer from "../Footer/Footer";
+import  Sp1 from "./Meta Gate.jpg";
+import  Sp2 from "./RED FM LOGO2.png";
+import  Sp3 from "./namekart logo 2.png";
+import  Sp4 from "./Exergic-Logo.png";
+import  Sp5 from "./abroad-education-VISA-documentation.png";
+import  Sp6 from "./TA 2.jpg";
+
+
 
 
 import AOS from 'aos';
@@ -100,6 +108,49 @@ export default function LandingPage() {
               </div>
             </Link>
           )}
+        </div>
+        <div style={{width: "80%" , margin : "auto" , marginTop : "60px"}}>
+          <h1 style={{color: "white" , fontSize : "24px" , textAlign : "center" , marginBottom : "10px"}}>Our Sponsors</h1>
+        <div className="team_grid">
+          
+
+      <div className="team_grid_div_img" data-aos="fade-right">
+      <img src={Sp1} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>META GATE</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="fade-right">
+      <img src={Sp2} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>RED FM 93.5</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="fade-right">
+      <img src={Sp3} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>NAME KART</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="fade-right">
+      <img src={Sp4} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>EXERGIC</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="fade-right">
+      <img src={Sp5} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>ABROAD EDUCATION</p>
+      </div>
+
+       <div className="team_grid_div_img" data-aos="fade-right">
+      <img src={Sp6} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>TECHANALOGY</p>
+      </div>
+
+        </div>
+
+
         </div>
         {/* <div className="camambas"> 
         <LeaderShipCard/>

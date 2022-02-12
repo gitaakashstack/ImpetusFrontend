@@ -3,7 +3,20 @@ import Card from "../Card/Card";
 import "./AboutUs.css";
 import Navbar from "../Navbar/Navbar";
 import Footer from "../Footer/Footer";
+
+import  Sp1 from "../LandingPage/Meta Gate.jpg";
+import  Sp2 from "../LandingPage/RED FM LOGO2.png";
+import  Sp3 from "../LandingPage/namekart logo 2.png";
+import  Sp4 from "../LandingPage/Exergic-Logo.png";
+import  Sp5 from "../LandingPage/abroad-education-VISA-documentation.png";
+import  Sp6 from "../LandingPage/TA 2.jpg";
+
+import AOS from 'aos';
+import 'aos/dist/aos.css'; 
+
 export default function AboutUs() {
+   AOS.init({duration:500});
+
   useEffect(()=>{
   window.scrollTo(0, 0)
 },[])
@@ -54,10 +67,57 @@ A number of international societies have their student sections under the SME um
 
         </div>
 
+  <div style={{width: "80%" , margin : "auto" , marginTop : "60px"}}>
+          <h1 style={{color: "white" , fontSize : "24px" , textAlign : "center" , marginBottom : "10px"}}>Our Sponsors</h1>
+        <div className="team_grid">
+          
+
+      <div className="team_grid_div_img" data-aos="flip-up">
+      <img src={Sp1} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>META GATE</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="flip-down">
+      <img src={Sp2} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>RED FM 93.5</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="flip-up">
+      <img src={Sp3} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>NAME KART</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="flip-down">
+      <img src={Sp4} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>EXERGIC</p>
+      </div>
+
+
+        <div className="team_grid_div_img" data-aos="flip-up">
+      <img src={Sp5} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>ABROAD EDUCATION</p>
+      </div>
+
+       <div className="team_grid_div_img" data-aos="flip-down">
+      <img src={Sp6} alt="Hi" className="team_grid_img" />
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>TECHANALOGY</p>
+      </div>
+
+        </div>
+
+
+        </div>
+
+
+
         <div className="aboutFirst">
           <p className="heading">Past Sponsors</p>
           <br />
         </div>
+        <div style={{width : "80%" , margin : "auto"}}>
         <div className="team_grid">
           <Card
             src="https://digitallearning.eletsonline.com/wp-content/uploads/2016/10/UGC_LOGO.jpg"
@@ -119,6 +179,7 @@ A number of international societies have their student sections under the SME um
             src="https://vigyanprasar.gov.in/wp-content/uploads/2-IUSSTF-Logo.jpg"
           />
           <Card title="Board of Research in Nuclear Sciences(BRNS), DAE" src="http://www.daessps.in/art/BARC-circle.jpg" />
+        </div>
         </div>
       </div>
       <Footer />

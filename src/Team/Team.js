@@ -87,7 +87,7 @@ return (
 {/* Event Management */}
       <div className="team_grid_div_img" data-aos="fade-right">
       <img src={P22} alt="Hi" className="team_grid_img" />
-      <p className="team_grid_div_p" style={{textShadow : "none"}}>V. Ameya Ashrith<br/>Event Management Head</p>
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>V. Ameya Aashrith<br/>Event Management Head</p>
       </div>
 
       <div className="team_grid_div_img" data-aos="fade-right">

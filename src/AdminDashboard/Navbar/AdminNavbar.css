@@ -78,7 +78,7 @@ nav {
     text-align: center;
     position: absolute;
     width: 100%;
-    background: rgba(114, 113, 113, 0.692);
+    /* background: rgba(114, 113, 113, 0.692); */
     /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
     box-shadow: 0 0 50px rgb(0, 0, 0);
     backdrop-filter: blur(4px);

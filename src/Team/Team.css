@@ -25,6 +25,8 @@
   .team_grid_div_p{
     font-size: 16px !important;
     color: black !important; 
+    text-align: center !important;
+    font-weight: bold !important;
   }
 
   .team_grid{
