@@ -151,10 +151,8 @@ export default function Event8() {
               Toss for map veto.
             </li>
             <li>
-              Date: 24th - 25th  February 2022.
+              Date: 19th February & 20th  February 2022.
             </li>
-
-
             <li>
             Number of People Per Team - 5.
             </li>
@@ -166,6 +164,9 @@ export default function Event8() {
             </li>
                         <li>
       Entry Fees (per person) - ₹200/-
+            </li>
+            <li>
+              Re entry allowed once at Rs 100 per team
             </li>
                         <li>
     Prize Money - Rs. 10,000/-.

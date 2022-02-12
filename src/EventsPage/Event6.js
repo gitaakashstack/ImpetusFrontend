@@ -146,7 +146,7 @@ There are 2 rounds. Each round has 4 levels. Each level has some points. The par
            
 
      <li>
-Date – 24-26th February 2022.
+Date – 24th February - 25th February 2022.
             </li>
             <li>
 Registration closes 1 hour before the commencement of Round 1.
@@ -164,7 +164,7 @@ Good CPU,GPU which can handle games like temple run etc.
            It will be an individual event.
             </li>
             <li>
-           Prize money - Rs 5000, Rs. 3000, Rs. 2000.
+           Prize money - Rs 3,500 (Winner), Rs. 2,500 (First Runner up), Rs. 2000 (Second Runner up).
             </li>         
           </ul>
 
@@ -222,7 +222,9 @@ Pramod Surya : 8500973356.
 Tannishtha Bag : 8587825869
             </li>       
           </ul>
-          <br/>
+ <br/>
+
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
           {loader ? 

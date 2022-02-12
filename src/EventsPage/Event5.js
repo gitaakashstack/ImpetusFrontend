@@ -191,6 +191,9 @@ Nazrullah : 9748952490.
           <h1 className="eventsSubheadings">
 Society of Mechanical Engineers of IIEST, Shibpur invites everyone to participate and be a part of this grand General Technical Quiz under Impetus 5.0.
           </h1>
+           <br/>
+
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
           {loader ? 

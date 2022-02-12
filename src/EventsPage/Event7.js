@@ -147,7 +147,7 @@ Platform: lichess.org.
              Time control: 10+0.
             </li>
             <li>
-              Date: 26th  February 2022.
+              Date: 25th February - 26th  February 2022.
             </li>
 
 

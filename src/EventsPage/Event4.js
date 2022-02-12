@@ -130,10 +130,12 @@ export default function Event4() {
       <div className="mainContent">
         <div className="impetus">
           <p>Trade Assemble</p>
+          <p className="bodyHeading" style={{fontSize : "24px "}}>ASME IIESTS </p>
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-Trade Assemble, well actually in the opposite order, where you first assemble components in fusion 360 and then take it to the next level and assess your product financially. This competition aims to coalesce the idea of basic trading with assembly of 3D structures virtually on a CAD software. This event will test the level of proficiency of the participants in assembling 3D models while checking their understanding of finances as encountered in real life. 
+
+Impetus 5.0 in association with ASME IIESTS  brings Trade Assemble, well actually in the opposite order, where you first assemble components in fusion 360 and then take it to the next level and assess your product financially. This competition aims to coalesce the idea of basic trading with assembly of 3D structures virtually on a CAD software. This event will test the level of proficiency of the participants in assembling 3D models while checking their understanding of finances as encountered in real life. 
 <br/>
 <br/>
 Teams will be provided with components to assemble. Is that it?! You will have to trade your items with other team members in exchange of other items or tokens to complete your model. 
@@ -160,7 +162,7 @@ The event aims to bring the participants closer to the real-life scenario, you g
               Pre-requirements – PC with Fusion 360 installed in it and a Stable internet connection. 
             </li>
             <li>
-              Participants have to form a team of 3-4 members. 
+              Participants have to form a team of 4 members. 
             </li>
 
             <li>
@@ -170,7 +172,7 @@ The event aims to bring the participants closer to the real-life scenario, you g
              There are two rounds of duration 2 hours each.
             </li>
             <li>
-        Prize money – Rs 5000(winner), Rs. 3000(first runner up), Rs. 2000 (second runner up).
+        Prize money – Rs 7,000 (winner), Rs. 5,000(first runner up), Rs. 3,000 (second runner up).
             </li>
                         
           </ul>
@@ -231,7 +233,9 @@ Tannishtha Bag : 8587825869.
 Akanksha Kumari : 6204290557.
             </li>       
           </ul>
-          <br/>
+ <br/>
+
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
           {loader ? 

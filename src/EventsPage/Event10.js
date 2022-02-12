@@ -135,7 +135,9 @@ export default function Event10() {
           <p className="descriptionOfEventObjectives">
            A good strategy and designing build the path from an ordinary concept to an extraordinary success. To identify and promote all such visionary geniuses, the Department of Mechanical Engineering, IIEST Shibpur brings to you, Roadmap- Strategy Design Contest, in its annual tech-fest IMPETUS 5.0.
            <br/>
-           Roadmap is a team event. Each team will be given a problem statement related to a real-life business case. They have to evaluate, rationali
+Roadmap is a team event. Each team will be given a problem statement related to a real-life business case. They have to evaluate, rationalize and then present it in the best possible way in front of a jury comprising of IIM Alumni.
+           <br/>
+           RoadMap is your chance to practice case-solving and be challenged by a panel of industry-leading professionals, which is an experience rarely gained while studying.
           </p>
           <br />
           <h2 className="eventsSubheadings">Perks:</h2>
@@ -167,8 +169,6 @@ export default function Event10() {
           <p className="descriptionOfEventObjectives">
           The event meets will take place on Zoom/Google Meet. Participants are advised ensure a stable internet connection in your smartphones or computers prior to the competition.
           <br/>
-RoadMap is your chance to practice case-solving and be challenged by a panel of industry-leading professionals, which is an experience rarely gained while studying.
-<br/>
                              <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
@@ -179,9 +179,14 @@ Akanksha Kumari : 6204290557.
             </li>      
           </ul>
           <br/>
-Society of Mechanical Engineers of IIEST, Shibpur invites everyone to participate and be a part of this Roadmap under Impetus 5.0.
           </p>
-         <br/>
+ <br/>
+ <h1 className="eventsSubheadings">
+Society of Mechanical Engineers of IIEST, Shibpur invites everyone to participate and be a part of this Roadmap under Impetus 5.0.
+          </h1>
+          <br/>
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
+
         </div>
         <div className="registerDiv">
 {loader ? 

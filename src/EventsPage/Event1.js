@@ -78,7 +78,7 @@ export default function Event1() {
         currency: "INR",
         amount: data.amount.toString(),
         order_id: data.id,
-        name: "CAD Competition",
+        name: "CADegorized",
         description: "Thank you for registering . Please give us some money",
         image: `${process.env.REACT_APP_SERVER}/logo.svg`,
         handler: function (response) {
@@ -100,7 +100,7 @@ export default function Event1() {
           phone,
         },
         notes : {
-          eventName : "CAD Competition",
+          eventName : "CADegorized",
           name:name,
           email:email,
           phone:phone
@@ -120,7 +120,7 @@ export default function Event1() {
       </div>
       <div className="mainContent">
         <div className="impetus">
-          <p>CAD Competition</p>
+          <p>CADegorized</p>
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
@@ -133,7 +133,7 @@ export default function Event1() {
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-             The CAD competition is going to be held in 3 levels. 
+             The CADegorized is going to be held in 3 levels. 
             </li>
             <li>
               Every participant should pass through level 1 to enter level 2 and so on. 
@@ -183,8 +183,9 @@ Abhinay : 6303893611
 Sushmayan : 9903689877
             </li>
           </ul>
+          <br/>
 
-
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
           {loader ? 

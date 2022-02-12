@@ -24,7 +24,7 @@ export default function MultipleSelect(props) {
           label="Event"
           onChange={handleChange}
         >
-          <MenuItem value='CAD Competition'>CAD Competition</MenuItem>
+          <MenuItem value='CADegorized'>CADegorized</MenuItem>
           <MenuItem value='Yantra Search'>Yantra Search</MenuItem>
           <MenuItem value='Heatovation'>Heatovation</MenuItem>
           <MenuItem value='Trade Assemble'>Trade Assemble</MenuItem>

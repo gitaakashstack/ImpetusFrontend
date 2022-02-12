@@ -217,7 +217,9 @@ Nazrullah : 9748952490.
 Sumana Dey : 8927854615.
             </li>       
           </ul>
-          <br/>
+           <br/>
+
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
          {loader ? 

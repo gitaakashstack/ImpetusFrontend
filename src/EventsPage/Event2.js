@@ -130,7 +130,7 @@ export default function Event2() {
         </div>
        <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-This event propels the participants to leave their seats and go around observing the machines around them. It is a test of how much one is aware of things present around them. 10 teams have to solve 10 riddles, one at a time, as quickly as possible. The fastest three teams that can solve all the riddles correctly will be declared winners. Prizes will be given to the top 3 teams.
+This event propels the participants to leave their seats and go around observing the machines around them. It is a test of how much one is aware of things present around them , teams have to solve riddles, one at a time, as quickly as possible. The fastest three teams that can solve all the riddles correctly will be declared winners. Prizes will be given to the top 3 teams.
 </p>
           <br />
           <br/>
@@ -155,17 +155,13 @@ This event propels the participants to leave their seats and go around observing
 Pre-requirements – WhatsApp, moderate internet connection.
             </li>
             <li>
-Participation – team of 3/4 members.
+Participation – team of 2 members.
             </li>
-            <li>
-             Expected Participation – 25+ teams.
-            </li>
-
             <li>
            Volunteers required – 11.
             </li>
             <li>
-            Platform – Zoom, WhatsApp.
+            Platform – Gmeet/Zoom.
             </li>
             <li>
         No. of Rounds – 2.
@@ -281,7 +277,9 @@ Jagriti Garg: 7424991682
 Shubhankar Sarkar- 7985400976
             </li>       
           </ul>
-          <br/>
+           <br/>
+
+          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
          {loader ? 

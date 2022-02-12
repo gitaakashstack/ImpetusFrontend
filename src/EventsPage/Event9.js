@@ -142,9 +142,13 @@ export default function Event9() {
             <li><strong>Pre-requisites:</strong> Required hardware and software setup and proper internet connection</li>
             <li><strong>Number of members per team:</strong> 4 </li>
             <li><strong>Registration Fees per team :</strong> Rs. 160/-</li>
-            <li><strong>Date of Event :</strong> 26th Feb ( 8:45pm to 1 or 2am)</li>
-            <li><strong>Number of Rounds:</strong> 3</li>
+            <li><strong>Date of Event :</strong> 21st February - 22nd February 2022 ( 8:45pm to 1 or 2am)</li>
+            <li><strong>Number of Rounds:</strong> Flexible</li>
             <li>
+              <li>
+                <strong>Re entry allowed once at Rs 80 per team</strong>
+              </li>
+              <br/>
              <strong>Prize Money:</strong> Rs 10,000
             </li>
           </ul>
@@ -156,6 +160,9 @@ export default function Event9() {
      <li>
 Akash Kundu : 7001098174.
             </li>      
+            <li>
+              Ankit Singh : 8240554489
+            </li>
           </ul>
           <br/>
          

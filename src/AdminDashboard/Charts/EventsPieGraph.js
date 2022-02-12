@@ -7,7 +7,7 @@ const PieChart = () => {
   const charBuilder = async () => {
       const response = await fetch(`${process.env.REACT_APP_SERVER}/eventsregistrations`);
       const data = await response.json();
-      let cas = ["CAD Competition" , "Yantra Search" , "Heatovation" , "Trade Assemble" , "Quizario" , "TurstMe" , "Chess" , "Valorant" , "BGMI", "Roadmap - Strategy Design Contest"];
+      let cas = ["CADegorized" , "Yantra Search" , "Heatovation" , "Trade Assemble" , "Quizario" , "TurstMe" , "Chess" , "Valorant" , "BGMI", "Roadmap - Strategy Design Contest"];
       let score = [];
       console.log(data.eventsRegistration);
     //   data.leadersData.map(ld=>cas.push(ld.name));

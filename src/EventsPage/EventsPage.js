@@ -23,7 +23,7 @@ export default function EventsPage() {
         </div>
         <div className="navigationGrid2">
        
-        <EventCard  data_aos="flip-left"  title="CAD Competition" 
+        <EventCard  data_aos="flip-left"  title="CADegorized" 
         desc="Do you wish to design the future? Or have a profound love for tweaking designs, for visualizing amazing tech? 
 Well, here's your chance to shine! 
 Impetus 5.0, in association with SAE, IIEST Shibpur, brings you the much awaited CAD event. So unleash your creativity, put pen to paper (sorry, cursor to screen) and bring to life the smartest designs.
@@ -31,7 +31,7 @@ Impetus 5.0, in association with SAE, IIEST Shibpur, brings you the much awaited
 " link="/event1" />
        
         <EventCard  data_aos="flip-right"  title="Yantra Search" 
-        desc="This event propels the participants to leave their seats and go around observing the machines around them. It is a test of how much one is aware of things present around them. 10 teams have to solve 10 riddles, one at a time, as quickly as possible. The fastest three teams that can solve all the riddles correctly will be declared winners. Prizes will be given to the top 3 teams." link="/event2" />
+        desc="This event propels the participants to leave their seats and go around observing the machines around them. It is a test of how much one is aware of things present around them , teams have to solve riddles, one at a time, as quickly as possible. The fastest three teams that can solve all the riddles correctly will be declared winners. Prizes will be given to the top 3 teams." link="/event2" />
        
         <EventCard  data_aos="flip-left"  title="Heatovation"
          desc=" Idea presentation is an event organized by IMPETUS 5.0 in association with ISHRAE - IIEST Kolkata chapter. It invites participation from students with entrepreneurial/problem-solving mindsets pan India. It would require its participants to present their ideas to the panel of judges and answer their queries based on the presentation." link="/event3" />
