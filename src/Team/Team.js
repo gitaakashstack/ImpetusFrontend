@@ -274,7 +274,7 @@ return (
 
       <div className="team_grid_div_img" data-aos="fade-right">
       <img src={P29} alt="Hi" className="team_grid_img" />
-      <p className="team_grid_div_p" style={{textShadow : "none"}}>Rajkumar Voleti<br/>Not mentioned.</p>
+      <p className="team_grid_div_p" style={{textShadow : "none"}}>Rajkumar Voleti<br/>Technical Executive</p>
       </div>
 
       <div className="team_grid_div_img" data-aos="fade-right">
