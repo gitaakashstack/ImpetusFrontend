@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <div className="footer">
       <div>
-       <strong>Society of Mechanical Engineering, Indian Institute of Engineering
+       <strong>Society of Mechanical Engineers, Indian Institute of Engineering
         Science and Technology</strong>, Shibpur, P.O. - Botanic Garden, Howrah - 711
         103, West Bengal, India.
       </div>
