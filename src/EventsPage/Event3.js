@@ -131,80 +131,86 @@ export default function Event3() {
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-          Idea presentation is an event organized by IMPETUS 5.0 in association with ISHRAE - IIEST Kolkata chapter. It invites participation from students with entrepreneurial/problem-solving mindsets pan India. It would require its participants to present their ideas to the panel of judges and answer their queries based on the presentation.
+         Heatovation is an event organized by IMPETUS 5.0 in association with ISHRAE - IIEST Kolkata Chapter. It invites participation from students with entrepreneurial/ problem-solving mindsets pan India. We require participants to present their ideas to the panel of judges and answer their queries based on the presentation.
           </p>
           <br />
-          <h2 className="eventsSubheadings">Brief Idea of the Event</h2>
+          <h2 className="eventsSubheadings">Flow Of The Event</h2>
           <br/>
           <p className="descriptionOfEventObjectives">
-            The following events occur in two rounds during which the participants need to upload their presentation on the given link and for the next round they will have to present their idea before the judges
+           The following events occur in two rounds during which the participants need to upload their presentation on the given link and for the next round they will have to present their idea before the judges.
+          <br/>
+          The first round will be an online pitch deck submission.
+You have to upload the presentation on the given form link and the top 10 performers will be selected for the second round.
+<br/>
+In the second round, the participants will be given an opportunity to present the idea in front of the judges after which top performers will be announced.
           </p>
           <br />
           <h2 className="eventsSubheadings">Guidelines</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-           You have to upload the presentation on the given link and the top 10 performers will be selected for the second round.
+           No. of rounds - 2.
             </li>
             <li>
-           Deadline for submission of ideas for the 1st round-22nd February 2022.
+          Deadline for submission of ideas through form link for the 1st round-22nd February 2022. Form dates will be released soon, keep checking the website.
+            </li>
+            <li>Event duration: 1 hour 15 mins.
             </li>
             <li>
-.            In the second round, the participants will be given an opportunity to present the idea in front of the judges after which top performers will be announced.
+        Rules are subjected to change and decisions of the Impetus 5.0 team are absolute and binding.
             </li>
             <li>
-         Team size: Individual or group of a maximum of 3 team members.
+              Open to all college students from all over India.
             </li>
             <li>
-              Event duration: 1hour 15 mins.
-            </li>
-            <li>
-              Rules are subjected to change and decisions of the Impetus 5.0 team are absolute and binding.
+              Startup idea presentation is a must for this competition.
             </li>
           </ul>
           <br />
-          <h2 className="eventsSubheadings">Eligibility Criteria</h2>
+          <h2 className="eventsSubheadings">Pre-requisites</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-           This competition is open to everyone college students from all over India.
+          PC / smartphone.
             </li>
-            <li>Startup idea presentation is a must for this competition.</li>
+            <li>Good internet connectivity.</li>
+            <li>
+            Relevant knowledge in topics of Thermodynamics, heat transfer, and about HVACs  
+            </li>
           </ul>
           <br/>
-          <h2 className="eventsSubheadings">Formation of Teams</h2>
+          <h2 className="eventsSubheadings">Team Size</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-             A maximum of 3 members is permitted per team.
+         1 to 3 members.
             </li>
-            <li>A candidate can participate individually also.</li>
             <li>One participant cannot be a part of more than one team.</li>
             <li>No change in team structure is permitted after the team is registered.</li>
           </ul>
           <br/>
-          <h2 className="eventsSubheadings">Registration</h2>
+          <h2 className="eventsSubheadings">Registration Fee</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-           Individuals/teams registered through this form will only be considered valid.
+         Rs. 100 per team.
             </li>
-            <li>This is not a free event.</li>
-            <li>Date of the event – 24th February 2022.</li>
-            <li>You need to pay registration fees.</li>
-            <li>Form dates will be released soon, keep checking the website.</li>
+            <li><strong>Attention:- Only Team Leader should register for the event.
+</strong></li>
+            <li><strong>Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+</strong></li>
+            <li>Free for Students of IIESTS.</li>
           </ul>
           <br/>
           {/* <h2 className="eventsSubheadings">Date : 24th February 2022.</h2> */}
 {/* <br/> */}
-          <h2 className="eventsSubheadings">Progress</h2>
+          <h2 className="eventsSubheadings">Rewards</h2>
           <br/>
-          <ul className="descriptionOfEventObjectives">
-            <li>
-         The ﬁrst round will be an online pitch deck submission.
-            </li>
-            <li>Selected teams based on their pitch deck will move forward to round two.</li>
-          </ul>
+          <p className="descriptionOfEventObjectives">
+    Prize money of Rs. 10,000 to be won.
+          </p>
+          <br/>
+            <h1 className="eventsSubheadings">Date of event : 24th February 2022 (Round 2)</h1>
           <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
@@ -219,7 +225,7 @@ Sumana Dey : 8927854615.
           </ul>
            <br/>
 
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
+          {/* <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1> */}
         </div>
         <div className="registerDiv">
          {loader ? 

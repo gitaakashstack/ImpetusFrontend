@@ -130,145 +130,100 @@ export default function Event2() {
         </div>
        <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-This event propels the participants to leave their seats and go around observing the machines around them. It is a test of how much one is aware of things present around them , teams have to solve riddles, one at a time, as quickly as possible. The fastest three teams that can solve all the riddles correctly will be declared winners. Prizes will be given to the top 3 teams.
+Do you have a keen eye for the world around you? Are you a fan of riddles and wordplays? <br/><br/>
+Calling all the sleuths and budding detectives, Impetus 5.0 brings you Yantra Search. 
+<br/>
+<br/>
+Yantra Search propels the participants to leave their seats and go around observing the machines around them. It is a test of your awareness, ability to think on your feet and your powers of deduction. Teams have to solve riddles, one at a time, as quickly as possible. The fastest three teams that can solve all the riddles correctly will be declared winners. 
+<br/><br/>
+So, get your teams in order and get ready to search your way out.
 </p>
           <br />
           <br/>
-<h1 className="eventsSubheadings">Idea of the Event</h1>
+<h1 className="eventsSubheadings">Flow of the Event</h1>
           <br/>
           <p className="descriptionOfEventObjectives">
-          The main idea of the event being that the participating teams will be provided with 10 riddles which needs to be solved one after the other. The participants need to click picture of the task done and sent it to the corresponding volunteer in order to get the next task. The team completing the whole task in least time wins.
+         The main idea of the event is that the participating teams will be provided with riddles which need to be solved one after the other. The participants need to click a picture of the task done and send it to the corresponding volunteer in order to get the next task. The team completing the whole task in the least time wins.
           </p>
 <br/>
 <br/>
-  <h1 className="eventsSubheadings">Basic Information</h1>
+  <h1 className="eventsSubheadings">Guidelines</h1>
 
 <br/>
 
 <ul className="descriptionOfEventObjectives">
-           
-
      <li>
- Registration – Till 1 hour before commencement of event.
+Registration ends 1 hour before the commencement of the event.
             </li>
             <li>
-Pre-requirements – WhatsApp, moderate internet connection.
+No. of Rounds – 2.
             </li>
             <li>
-Participation – team of 2 members.
-            </li>
-            <li>
-           Volunteers required – 11.
-            </li>
-            <li>
-            Platform – Gmeet/Zoom.
-            </li>
-            <li>
-        No. of Rounds – 2.
-            </li>
-
-            <li>
-            Duration of event –1.5 hours approximately.
-            </li>
-            <li>
-        Date Of the Event – 26 -27th February 2022.
+Duration of the event –1.5 hours approximately.
             </li>         
           </ul>
           <br/>
           <br />
-
-
-  <h1 className="eventsSubheadings">What Do We Have To Offer/What Makes Us Different/ Why Should You Participate</h1>
-<br/>
-<ul className="descriptionOfEventObjectives">
-          
-     <li>
-Prize money – Rs 5000, Rs. 3000, Rs. 2000.
-            </li>
-            <li>
-Interactive way to do tasks and challenge others as well as yourself .
-            </li>
-            <li>
-Fun way to do riddles and task.
-            </li>         
-          </ul>
-          <br/>
-          <br />
-
-
-<h1 className="eventsSubheadings">Flow Of The Event</h1>
-<br/>
-<ul className="descriptionOfEventObjectives">
-          
-     <li>
-10 riddles will be numbered 1 to 10. There will be 10 volunteers, one of them corresponding to each of these riddle.
-            </li>
-            <li>
-All the teams need to join the Zoom meeting where they will be given a number between 1 to 10 in the beginning.
-            </li>
-            <li>
-The riddle corresponding to that number and contact no. of the Volunteer associated with that riddle will be provided to the team.
-            </li>  
-
-            <li>
-Team needs to solve the given riddle (answer will be some simple machine or mechanism), find the machine/mechanism around them, click a picture of it, one of the members should send it to the associated volunteer over WhatsApp while mentioning their team’s name too.
-            </li>  
-
-
-                        <li>
-The riddle corresponding to that number and contact no. of the Volunteer associated with that riddle will be provided to the team.
-            </li>  
-
-                        <li>
-If the answer is correct the volunteer will give you the next riddle and contact no. of the corresponding volunteer for the next riddle.
-            </li>  
-
-
-                        <li>
-The riddle corresponding to that number and contact no. of the Volunteer associated with that riddle will be provided to the team.
-            </li>  
-
-                        <li>
-Once the team completes all 10 riddles, they need to report to the prime volunteer (present in the zoom meet allotted for the event) who will note the time for completion of whole task by the team.
-            </li>  
-
-                        <li>
-The fastest teams win. Top 3 will be awarded.
-            </li>  
-
-          </ul>
-          <br/>
-          <br />
-
-
-
           <h1 className="eventsSubheadings">Pre-requisites</h1>
           <br/>
-          <ol className="descriptionOfEventObjectives">
+          <ul className="descriptionOfEventObjectives">
             <li>
               Smartphone.
             </li>
             <li>
               Good Internet connection.
             </li>
-          </ol>
+            <li>
+              Platform – Zoom/G-meet, WhatsApp.
+            </li>
+          </ul>
           <br />
-          <h2 className="eventsSubheadings">Prize Money</h2>
           <br/>
-          <p className="descriptionOfEventObjectives">
-            Rs 10,000/-
-          </p>
-          <br />
-          <h2 className="eventsSubheadings">Registration fees per Team</h2>
+          <h1 className="eventsSubheadings">Team Size : 2</h1>
+<br/>
+<br/>
+           <h2 className="eventsSubheadings">Registration fees per Team</h2>
           <br/>
-          <p className="descriptionOfEventObjectives">
-            Rs 60/-
-          </p>
+          <ul className="descriptionOfEventObjectives">
+          
+      <li>
+Rs. 60/-
+      </li>      
+     <li>
+       <strong>
+Attention:- Only Team Leader should register for the event
+       </strong>
+            </li>  
+            <li>
+              <strong>
+              Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+              </strong>
+            </li>
+            <li>
+             Free for Students of IIESTS. 
+            </li>
+          </ul>
           <br/>
-           <h1 className="eventsSubheadings">Contact</h1>
+          <br/>
+  <h1 className="eventsSubheadings">Rewards</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">
           
+      <li>
+Prize will be given to the top 3 teams.
+      </li>      
+     <li>
+Prize money – Rs 5000, Rs. 3000, Rs. 2000.
+            </li>  
+          </ul>
+          <br/>
+          <br/>
+           <h1 className="eventsSubheadings">Date of the Event : 26th & 27th February 2022.</h1>
+<br/>
+<br/>
+           <h1 className="eventsSubheadings">Contact</h1>
+<br/>
+<ul className="descriptionOfEventObjectives">     
      <li>
 Jagriti Garg: 7424991682
 
@@ -278,8 +233,6 @@ Shubhankar Sarkar- 7985400976
             </li>       
           </ul>
            <br/>
-
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
          {loader ? 

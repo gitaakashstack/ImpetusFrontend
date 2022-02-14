@@ -135,7 +135,10 @@ export default function Event4() {
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
 
-Impetus 5.0 in association with ASME IIESTS  brings Trade Assemble, well actually in the opposite order, where you first assemble components in fusion 360 and then take it to the next level and assess your product financially. This competition aims to coalesce the idea of basic trading with assembly of 3D structures virtually on a CAD software. This event will test the level of proficiency of the participants in assembling 3D models while checking their understanding of finances as encountered in real life. 
+Impetus 5.0 in association with ASME IIESTS  brings Trade Assemble, well actually in the opposite order, where you first assemble components in fusion 360 and then take it to the next level and assess your product financially. This competition aims to coalesce the idea of basic trading with assembly of 3D structures virtually on a CAD software.
+<br/>
+<br/>
+ This event will test the level of proficiency of the participants in assembling 3D models while checking their understanding of finances as encountered in real life. 
 <br/>
 <br/>
 Teams will be provided with components to assemble. Is that it?! You will have to trade your items with other team members in exchange of other items or tokens to complete your model. 
@@ -145,82 +148,83 @@ The event aims to bring the participants closer to the real-life scenario, you g
           </p>
           <br />
 
-  <h1 className="eventsSubheadings">Basic Information</h1>
+  <h1 className="eventsSubheadings">Flow of the Event</h1>
 <br/>
 
 
-<ul className="descriptionOfEventObjectives">
+<p className="descriptionOfEventObjectives">
            
-
-     <li>
-  Date of event – 24 -25th February 2022
+Initially, teams will be provided with a jumbled set of components. The members need to judiciously trade with other team members to collect suitable components for completing any one of the standard models (the models whose parts were jumbled and provided to the teams). The teams will be marked on the basis of time taken and the number of trade tokens left with them at the end. (50% weightage to both aspects)
+<br/>
+<br/>
+The time required and token remaining at the end of the event will be evaluated to find the top 3 teams, who will be declared as the winner.            
+          </p>
+          <br/>
+          <br />
+           <h1 className="eventsSubheadings">Guidelines</h1>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>
+              Registration closes 1 hour before commencement of Round 1.
             </li>
             <li>
-            Registration closes 1 hour before commencement of Round 1 
+             Participants have to form a team of 4 members.
             </li>
             <li>
-              Pre-requirements – PC with Fusion 360 installed in it and a Stable internet connection. 
+             Participants have to be present in the Zoom/meet throughout the event.
             </li>
             <li>
-              Participants have to form a team of 4 members. 
+              There are two rounds of duration 2 hours each.
             </li>
-
-            <li>
-            Participants have to be present in the Zoom/meet throughout the event. 
-            </li>
-            <li>
-             There are two rounds of duration 2 hours each.
-            </li>
-            <li>
-        Prize money – Rs 7,000 (winner), Rs. 5,000(first runner up), Rs. 3,000 (second runner up).
-            </li>
-                        
           </ul>
           <br/>
-
-          <h1 className="eventsSubheadings">Objective and Marking</h1>
           <br/>
-          <p className="descriptionOfEventObjectives">
-           Initially, teams will be provided with jumbled set of components. The members need to judiciously trade with other team members to collect suitable components for completing any one of the standard models (the models whose parts were jumbled and provided to the teams). 
-The teams will be marked on the basis of time taken and number of trade tokens left with them at the end. (50% weightage to both aspects) 
- 
-<br/>
-<br/>
- 
-The time required and token remaining at the end of the event will be evaluated to find the top 3 teams, who will be declared as the winner. 
-
-<br/>
-<br/>
-
-So come join us in celebrating IMPETUS 5.0 at IIEST Shibpur and make sure to be a part of TRADE ASSMEBLE. 
-          </p>
-          <br />
           <h1 className="eventsSubheadings">Pre-requisites</h1>
           <br/>
-          <ol className="descriptionOfEventObjectives">
+          <ul className="descriptionOfEventObjectives">
             <li>
-              Atleast one person should have fusion 360 installed on their pc.
+            PC with Fusion 360 installed in it and a Stable internet connection.
             </li>
             <li>
-              Good Internet connection
+            At least one person should have fusion 360 installed on their PC.
             </li>
             <li>
-              One of them should know how to assemble components in fusion 360.
+              Good Internet connection.
             </li>
-          </ol>
+            <li>
+              One of them should know how to assemble components in Fusion 360.
+            </li>
+          </ul>
           <br />
-          <h2 className="eventsSubheadings">Prize Money</h2>
+          <br/>
+          <h2 className="eventsSubheadings">Registration Fee</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>
+            Rs 160/-
+            </li>
+            <li><strong>Attention:- Only Team Leader should register for the event.
+</strong></li>
+<li>
+  <strong>
+    Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+  </strong>
+</li>
+<li>
+  Free for Students of IIESTS.
+</li>
+          </ul>
+
+          <br/>
+          <br/>
+           <h2 className="eventsSubheadings">Rewards </h2>
           <br/>
           <p className="descriptionOfEventObjectives">
             Rs 15,000/-
           </p>
           <br />
-          <h2 className="eventsSubheadings">Registration fees per Team</h2>
-          <br/>
-          <p className="descriptionOfEventObjectives">
-            Rs 160/-
-          </p>
-          <br/>
+            <h1 className="eventsSubheadings">Date of the Event : 24th & 25th February 2022</h1>
+<br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">
@@ -235,7 +239,7 @@ Akanksha Kumari : 6204290557.
           </ul>
  <br/>
 
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
+          {/* <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1> */}
         </div>
         <div className="registerDiv">
           {loader ? 

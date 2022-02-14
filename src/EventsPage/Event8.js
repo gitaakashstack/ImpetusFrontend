@@ -132,49 +132,94 @@ export default function Event8() {
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-          Are you the person who’s made a long journey from Counter strike to Valorant? Is FPS a match made in heaven for you? Then, Voila! You arrived at your paradise. Join and participate in this thrilling gaming Competition and show you are no less than a pro gamer.
+          Are you the person who’s made a long journey from Counter strike to Valorant? <br/>
+          Is FPS a match made in heaven for you? Then, Voila! You arrived at your paradise. <br/>
+          <br/>Join and participate in this thrilling gaming Competition and show you are no less than a pro gamer.
           </p>
           <br />
           <br/>
-          <h2 className="eventsSubheadings">Rules and Regulations</h2>
-          <br/>
+          <h2 className="eventsSubheadings">Guidelines</h2>
           <ul className="descriptionOfEventObjectives">
-           
-
-     <li>
-    B01, B03, B05
-            </li>
-            <li>
-             Fracture is disabled.
-            </li>
-            <li>
-              Toss for map veto.
-            </li>
-            <li>
-              Date: 19th February & 20th  February 2022.
-            </li>
-            <li>
-            Number of People Per Team - 5.
-            </li>
-            <li>
-              Flow of events: 3-4 rounds as per participation.
-            </li>
-            <li>
-        Open to all.
-            </li>
-                        <li>
-      Entry Fees (per person) - ₹200/-
-            </li>
-            <li>
-              Re entry allowed once at Rs 100 per team
-            </li>
-                        <li>
-    Prize Money - Rs. 10,000/-.
-            </li>
-
-
+ 
+ <li>
+  B01, B03, B05. 
+ </li>
+ <li>
+   Fracture is disabled.
+ </li>
+ <li>
+   Toss for map veto.
+ </li>
+ <li>
+   No. of Rounds: 3-4 rounds as per participation.
+ </li>
+ <li>
+   Open to all.
+ </li>
           </ul>
-                              <br/>
+          <br/>
+          <br/>
+          <h2 className="eventsSubheadings">Team Size</h2>
+          <ul className="descriptionOfEventObjectives">
+ 
+ <li>
+Team of 5 members.
+ </li>
+ <li>
+One participant cannot be a part of more than one team.
+ </li>
+ <li>
+ No change in team structure is permitted after the team is registered.
+ </li>
+          </ul>
+          <br/>
+                    <br/>
+          <h2 className="eventsSubheadings">Team Size</h2>
+          <ul className="descriptionOfEventObjectives">
+ 
+ <li>
+Team of 5 members.
+ </li>
+ <li>
+One participant cannot be a part of more than one team.
+ </li>
+ <li>
+ No change in team structure is permitted after the team is registered.
+ </li>
+          </ul>
+           <br/>
+           <br/>
+
+          <h2 className="eventsSubheadings">Registration Fee</h2>
+          <ul className="descriptionOfEventObjectives">
+ 
+ <li>
+Rs 200 per team.
+ </li>
+ <li>
+Re entry allowed once at Rs 100 per team.
+ </li>
+ <li>
+<strong>
+  Attention:- Only Team Leader should register for the event.
+</strong>
+ </li>
+  <li>
+<strong>
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+</strong>
+ </li>
+          </ul>
+           <br/>
+           <br/>
+            <h1 className="eventsSubheadings">Rewards : Prize worth Rs. 10,000/- to be awarded to the winners.</h1>
+<br/>
+<br/>
+            <h1 className="eventsSubheadings">
+              Date of event: 19th and 20th February 2022.
+            </h1>
+<br/>
+<br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">

@@ -125,50 +125,82 @@ export default function Event1() {
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
            Do you wish to design the future? Or have a profound love for tweaking designs, for visualizing amazing tech? 
-           Well, here's your chance to shine! <br/><br/>Impetus 5.0, in association with SAE, IIEST Shibpur, brings you the much awaited CADegorized event. So unleash your creativity, put pen to paper (sorry, cursor to screen) and bring to life the smartest designs. 
+           Well, here's your chance to shine! <br/><br/>Impetus 5.0, in association with SAE, IIEST Shibpur, brings you the much awaited CAD event, CADegorised. CADegorised is an event for all tech enthusiasts to showcase their unique designing skills and their creative ability to solve a problem. It aims to encourage and challenge the participant's design skills.
           </p>
           <br/>
           <br/>
-          <h1 className="eventsSubheadings">Rules and Flow</h1>
+          <h1 className="eventsSubheadings">Flow of the events</h1>
           <br/>
+          <p className="descriptionOfEventObjectives">
+CADegorised is going to be held in 2 rounds. In the first round of the competition, participants are expected to replicate the given parts and submit them in an hour. Candidates qualified from the first round can participate in the second round. In the second round, participants are expected to submit an optimised design for the given problem statement in the stipulated time.
+
+          </p>
           <ul className="descriptionOfEventObjectives">
             <li>
-             The CADegorized is going to be held in 3 levels. 
+            Participants have to upload their CAD files for both rounds.
             </li>
             <li>
-              Every participant should pass through level 1 to enter level 2 and so on. 
+            Participants have to submit the simulation and optimization files for the second round.
             </li>
             <li>
-             In level 1&2, participants should replicate the provided parts and joints within 30mins each.
+           Any CAD, CAE and computing software can be used for the competition.
             </li>
             <li>
-             Level 3 will be based upon an optimization problem. The problem statement for the 3rd level will be given before 12 hours of submission. 
+    The required files should be submitted in a google form.
+            </li>
+            <li>
+              Participants can send any no. of entries.
+            </li>
+            <li>
+              Size limit for individual files – 100 MB (You could send zipped files in case size increases)
             </li>
           </ul>
 <br/>
 <br/>
+ <h1 className="eventsSubheadings">Judging Criteria</h1>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>
+         For the first round:- The participants will be judged on the accuracy of the designed parts and primetime pick. 
+            </li>
+            <li>
+           For the second round:- The participants will be judged on mass minimisation(50%) and factor of safety (50%).   
+            </li>
+          </ul>
+          <br/>
+<br/>
+
           <h1 className="eventsSubheadings">Pre-requisites</h1>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-          Good internet connection. Relevant design and analysis software to be pre installed in the computer. Good internet connection. 
+          Good internet connection.  
+            </li>
+            <li>
+              Relevant design and analysis software to be pre installed in the computer. Good internet connection.
             </li>
           </ul>
-
           <br/>
-<br/>
-          <h1 className="eventsSubheadings">Rewards</h1>
+          <br/>
+          <h1 className="eventsSubheadings">Team Size : Individual Participation</h1>
+          <br/>
+          <h1 className="eventsSubheadings">Registration Fee</h1>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-         3 winners will be selected from each level. Provided
-In level 1, winners would be chosen from 1st year
-In level 2, winners would be chosen from 1st and 2nd year
+         Rs. 50
             </li>
             <li>
-              In level 3, winners would be chosen from all four years. 
+             Free for Students of IIESTS.
             </li>
           </ul>
+          <br/>
+          <br/>
+          <h1 className="eventsSubheadings">Rewards</h1>
+          <br/>
+          <p className="descriptionOfEventObjectives">
+            Prizes worth Rs. 10000 to be awarded to the winners.
+          </p>
           <br/>
           <br/>
           <h1 className="eventsSubheadings">Date : 25th to 26th Feb 2022</h1>
@@ -177,15 +209,15 @@ In level 2, winners would be chosen from 1st and 2nd year
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-Abhinay : 6303893611
+Abhinay Arcot : 6303893611
             </li>
             <li>
-Sushmayan : 9903689877
+Sushmayan Trivedi : 9903689877
             </li>
           </ul>
           <br/>
 
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
+          {/* <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1> */}
         </div>
         <div className="registerDiv">
           {loader ? 

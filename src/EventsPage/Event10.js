@@ -133,43 +133,70 @@ export default function Event10() {
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-           A good strategy and designing build the path from an ordinary concept to an extraordinary success. To identify and promote all such visionary geniuses, the Department of Mechanical Engineering, IIEST Shibpur brings to you, Roadmap- Strategy Design Contest, in its annual tech-fest IMPETUS 5.0.
+           A good strategy and designing build the path from an ordinary concept to an extraordinary success.<br/><br/>To identify and promote all such visionary geniuses, the Department of Mechanical Engineering, IIEST Shibpur brings to you, Roadmap- Strategy Design Contest, in its annual tech-fest IMPETUS 5.0.
            <br/>
 Roadmap is a team event. Each team will be given a problem statement related to a real-life business case. They have to evaluate, rationalize and then present it in the best possible way in front of a jury comprising of IIM Alumni.
            <br/>
            RoadMap is your chance to practice case-solving and be challenged by a panel of industry-leading professionals, which is an experience rarely gained while studying.
           </p>
           <br />
-          <h2 className="eventsSubheadings">Perks:</h2>
-          <br/>
-          <ul className="descriptionOfEventObjectives">
-            <li>The winners will get cash prize worth ₹10,000.</li>
-            <li>Strategy Internships at Namekart.</li>
-          </ul>
-          <br />
-           <h2 className="eventsSubheadings">Competition Rules:</h2>
-          <br/>
-          <ul className="descriptionOfEventObjectives">
-            <li>Each team can comprise of 2-4 members.</li>
-            <li>The Panel’s decision will be final. However, in case of any factual discrepancies (if present), it will be dealt separately.</li>
-            <li>Keeping the video on throughout the final round.</li>
-            <li>s (per team): ₹30/- .</li>
-          </ul>
-          <br />
-        <h2 className="eventsSubheadings">Flow of the Event:</h2>
+          <h2 className="eventsSubheadings">Flow of the Events</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>Round 1 (dates to be announced) – Problem statement will be provided to teams 2 days prior to the event through forms. Each team will have 24 hours to plan a strategy of approach and present their findings.</li>
+            <li>Final Round:-  Here the esteemed judges will then evaluate the work and findings of the top 6 teams. Here, teams have to present their solutions in front of the panel.</li>
+          </ul>
+          <br />
+           <h2 className="eventsSubheadings">Guidelines</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>The event will take place on Zoom/Google Meet. Participants are advised to ensure a stable internet connection in their smartphones or computers prior to the competition.
+</li>
+            <li>Video should be kept on throughout the final round.</li>
+            <li>The Panel’s decision will be final. However, in case of any factual discrepancies (if present), it will be dealt separately.</li>
+          </ul>
+          <br />
+        <h2 className="eventsSubheadings">Team Size</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>Team of 2-4 members</li>
 
-            <li>Final Round (25th February 2022, Time 4:15pm to 7:15pm) – Here the esteemed judges will then evaluate the work and findings of top 6 teams. Here, teams have to present their solutions in front of the panel.</li>
+            <li>One participant cannot be a part of more than one team.</li>
+            <li>
+              No change in team structure is permitted after the team is registered.
+            </li>
           </ul>
           <br/>
-          <h2 className="eventsSubheadings">Platform</h2>
+          <h2 className="eventsSubheadings">Registration Fee</h2>
           <br/>
-          <p className="descriptionOfEventObjectives">
-          The event meets will take place on Zoom/Google Meet. Participants are advised ensure a stable internet connection in your smartphones or computers prior to the competition.
+          <ul className="descriptionOfEventObjectives">
+            <li>Rs 30 per team.</li>
+            <li>
+              <strong>
+                Attention:- Only Team Leader should register for the event.
+              </strong>
+            </li>
+                        <li>
+              <strong>
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+              </strong>
+            </li>
+          </ul>
           <br/>
-                             <br/>
+          <h2 className="eventsSubheadings">Rewards</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+       <li>
+         Cash prize worth Rs. 10000 to be awarded to the winners.
+       </li>
+       <li>
+         Strategy Internships at Namekart.
+       </li>
+        </ul>
+
+        
+            <h1 className="eventsSubheadings">Date of the Event : 25th Feb, 2022 (Round 2)</h1>
+ <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">
@@ -179,13 +206,12 @@ Akanksha Kumari : 6204290557.
             </li>      
           </ul>
           <br/>
-          </p>
  <br/>
  <h1 className="eventsSubheadings">
 Society of Mechanical Engineers of IIEST, Shibpur invites everyone to participate and be a part of this Roadmap under Impetus 5.0.
           </h1>
           <br/>
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
+          {/* <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1> */}
 
         </div>
         <div className="registerDiv">

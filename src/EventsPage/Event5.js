@@ -138,22 +138,22 @@ The quiz will be a long format quiz held in two rounds spanning over two days, t
 <br/>
 The questions will be a general quiz with plenty of hints for working out the answers with intelligent guesses. The quizmaster has promised that there won't be a single answer that you haven't heard before, so anybody with a knack for quizzing can easily participate and win laurels.
 <br/>
-PRELIMS: Day 1 (26th Feb 2022) - A set of 22 questions carrying 30 marks will be provided to every group and they need to answer and submit within the stipulated time of 1.5 hours. 
+          </p>
+          <br />
+          <h1 className="eventsSubheadings">Flow of the Event</h1>
+          <br/>
+          <p className="descriptionOfEventObjectives">
+            PRELIMS: Day 1 (26th Feb 2022) - A set of 22 questions carrying 30 marks will be provided to every group and they need to answer and submit within the stipulated time of 1.5 hours. 
+<br/>
 <br/>
 FINALS: Day 2 (27th Feb 2022) - From the Prelims Six - Eight teams will qualify and they will compete head to head in the Finals for the ultimate glory in a Live Quiz.
           </p>
-          <br />
-          <h1 className="eventsSubheadings">Platform</h1>
           <br/>
-          <p className="descriptionOfEventObjectives">
-            For both rounds, Zoom/Google Meet would be the platform. So, all the participants are required to have their personal computers or smartphones along with a steady internet connection. 
-          </p>
-          <br/>
-           <h1 className="eventsSubheadings">Let us look a few additional rules:</h1>
+           <h1 className="eventsSubheadings">Guidelines </h1>
            <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-              The Quiz Master's decision will be final. However, in case of any factual discrepancies (if present), it will be dealt separately.
+              The Quiz Master's decision will be final. However, in case of any factual discrepancies (if present), it will be dealt with separately.
             </li>
             <li>
               ABSOLUTELY NO GOOGLING: Any kind of cheating will result in disqualification! 
@@ -161,17 +161,66 @@ FINALS: Day 2 (27th Feb 2022) - From the Prelims Six - Eight teams will qualify 
             <li>
               Keeping the video on throughout the final round. 
             </li>
-            <li>
-             Number of people per team: 2. 
-            </li>
-            <li>
-              Entry fees (per team): ₹80/-
-            </li>
-            <li>
-              Prize Money: ₹8000/-
-            </li>
           </ul>
           <br/>
+
+
+<h1 className="eventsSubheadings">Pre-requisites </h1>
+           <br/>
+          <p className="descriptionOfEventObjectives">
+For both rounds, Zoom/Google Meet would be the platform. So, all the participants are required to have their personal computers or smartphones along with a steady internet connection.
+          </p>
+          <br/>
+
+
+<h1 className="eventsSubheadings">Team Size </h1>
+           <br/>
+          <ul className="descriptionOfEventObjectives">
+<li>
+  Team of 2 members
+</li>
+<li>
+  One participant cannot be a part of more than one team.
+</li>
+<li>
+  No change in team structure is permitted after the team is registered.
+</li>
+          </ul>
+          <br/>
+
+
+<br/>
+          <h2 className="eventsSubheadings">Registration Fee</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>
+            Rs 80/-
+            </li>
+            <li><strong>Attention:- Only Team Leader should register for the event.
+</strong></li>
+<li>
+  <strong>
+    Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+  </strong>
+</li>
+<li>
+  Free for Students of IIESTS.
+</li>
+          </ul>
+
+          <br/>
+
+            <h1 className="eventsSubheadings">Rewards </h1>
+            <p className="descriptionOfEventObjectives">
+ Prizes worth ₹8000/- up for grabs.
+            </p>
+<br/>
+<br/>
+
+            <h1 className="eventsSubheadings">Date : 26th & 27th Feb, 2022  </h1>
+<br/>
+<br/>
+
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">
@@ -193,7 +242,7 @@ Society of Mechanical Engineers of IIEST, Shibpur invites everyone to participat
           </h1>
            <br/>
 
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
+          {/* <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1> */}
         </div>
         <div className="registerDiv">
           {loader ? 

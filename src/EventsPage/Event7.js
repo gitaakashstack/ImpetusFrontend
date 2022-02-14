@@ -133,51 +133,64 @@ export default function Event7() {
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-            Hola people!…Wanna show off your skill, intelligence and presence of mind in an 8x8 square grid? Then yes,this is the right place for you. Come, and participate to show that your strategic mind is best among the best…The Rules and Other information are mentioned below
+            Hola people!<br/><br/>Wanna show off your skill, intelligence and presence of mind in an 8x8 square grid? Then yes,this is the right place for you. 
+            <br/>
+            <br/>
+            Impetus 5.0 brings you a game of Chess where you will square off against other competitive minds and strive to prove that you’re the best of them all. 
+<br/><br/>
+So, get ready for the challenge and come, participate to show that your strategic mind is the best among the best…
           </p>
           <br />
           <br/>
-          <h2 className="eventsSubheadings">Rules and Regulations</h2>
+          <h2 className="eventsSubheadings">Flow of Events</h2>
+          <br/>
+          <p className="descriptionOfEventObjectives">
+Will be taking place on lichess.org
+Further rules will be declared on the spot.
+          </p>
+                    <br/>
+<br/>
+
+<h2 className="eventsSubheadings">Guidelines</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
-            <li>
+
+<li>
 Platform: lichess.org.
-            </li>
-            <li>
-             Time control: 10+0.
-            </li>
-            <li>
-              Date: 25th February - 26th  February 2022.
-            </li>
-
-
-            <li>
-Rounds: 2.
-            </li>
-            <li>
-             Round time: 1 hour.
-            </li>
-            <li>
-              Flow of events: Will be taking place in chess.com.
-            </li>
-            
-            <li>
-Further rules will be declared on the spot.
-            </li>
-            <li>
-             Individual event.
-            </li>
-            <li>
-Open to all.
-            </li>
-                        <li>
-Entry Fees (per person) - ₹30/-
-            </li>
-                        <li>
-Prize Money - Rs. 7,000/-.
-            </li>
+</li>
+<li>
+  Time control: 10+0.
+</li>
+<li>
+  Rounds: 2.
+</li>
+<li>
+Round time: 1 hour.
+</li>
+<li>
+  Open to all.
+</li>
           </ul>
-                    <br/>
+          <br/>
+          <br/>
+
+            <h1 className="eventsSubheadings">Team Size : Individual Participation</h1>
+<br/>
+<br/>
+
+            <h1 className="eventsSubheadings">Registration Fee : Rs. 30/-</h1>
+<br/>
+<br/>
+            <h1 className="eventsSubheadings">Rewards</h1>
+            <p className="descriptionOfEventObjectives">
+          Prizes worth Rs. 7000 to be awarded to the winners.
+            </p>
+<br/>
+<br/>
+            <h1 className="eventsSubheadings">Date of the Event : 25th & 26th February 2022.</h1>
+<br/>
+<br/>
+
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">

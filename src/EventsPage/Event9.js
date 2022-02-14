@@ -133,26 +133,57 @@ export default function Event9() {
         </div>
         <div className="eventDetails">
           <p className="descriptionOfEventObjectives">
-           Are you a lover of open world gaming? A person who enjoys a game of survival skills and sheer finesse? Then yes you’ve come to the right spot.Participate in this challenging competition of BGMI to show off your shooting and survival skills.Be the one who can show others that what a real BGMI champ looks like. Participate and Join now!
+           Are you a lover of open world gaming? A person who enjoys a game of survival skills and sheer finesse?Then yes you’ve come to the right spot.<br/><br/>Participate in this challenging competition of BGMI to show off your shooting and survival skills.Be the one who can show others that what a real BGMI champ looks like. Participate and Join now!
           </p>
           <br />
-          <h2 className="eventsSubheadings">Important information</h2>
+          <h2 className="eventsSubheadings">Guidelines</h2>
           <br/>
           <ul className="descriptionOfEventObjectives">
-            <li><strong>Pre-requisites:</strong> Required hardware and software setup and proper internet connection</li>
-            <li><strong>Number of members per team:</strong> 4 </li>
-            <li><strong>Registration Fees per team :</strong> Rs. 160/-</li>
-            <li><strong>Date of Event :</strong> 21st February - 22nd February 2022 ( 8:45pm to 1 or 2am)</li>
-            <li><strong>Number of Rounds:</strong> Flexible</li>
+            <li>Number of Rounds: flexible.</li>
+            <li>Open to all.</li>
+          </ul>
+            <br/>
+
+
+<br />
+          <h2 className="eventsSubheadings">Team Size</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>Team of 4 members.</li>
+            <li>One participant cannot be a part of more than one team.</li>
             <li>
-              <li>
-                <strong>Re entry allowed once at Rs 80 per team</strong>
-              </li>
-              <br/>
-             <strong>Prize Money:</strong> Rs 10,000
+              No change in team structure is permitted after the team is registered.
             </li>
           </ul>
-                             <br/>
+            <br/>
+
+
+<br />
+          <h2 className="eventsSubheadings">Registration Fee</h2>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+            <li>Rs 160 per team.</li>
+            <li>Re entry allowed once at Rs 80 per team.</li>
+            <li>
+              <strong>
+                Attention:- Only Team Leader should register for the event.
+              </strong>
+            </li>
+                        <li>
+              <strong>
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+              </strong>
+            </li>
+          </ul>
+            <br/>
+
+
+            <h1 className="eventsSubheadings">Rewards :  Prizes worth Rs. 10000 to be awarded to the winners. </h1>
+<br/>
+            <h1 className="eventsSubheadings">
+              Date of event : 21st and 22nd Feb, 2022
+            </h1>
+
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">
