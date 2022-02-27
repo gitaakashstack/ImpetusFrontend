@@ -96,7 +96,7 @@ export default function SignUpPage() {
       setEmailError({ display: "block", marginLeft: "5%", color: "red" });
     }
     if (
-      password.length > 6 &&
+      password.length >= 6 &&
       email &&
       name.trim() &&
       phone.trim().length === 10 &&
@@ -169,7 +169,7 @@ export default function SignUpPage() {
       if(response.status === 200){
         swal({
         title: "Verify your account!",
-        text: "Email sent !",
+        text: "Please check your spam !",
         icon: "success",
       });
       window.location.replace('/login');

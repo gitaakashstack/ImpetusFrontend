@@ -181,7 +181,7 @@ Details of other team members should be shared by Team Leader through a G-form w
             <h1 className="eventsSubheadings">Rewards :  Prizes worth Rs. 10000 to be awarded to the winners. </h1>
 <br/>
             <h1 className="eventsSubheadings">
-              Date of event : 21st and 22nd Feb, 2022
+              Date of event : 24th & 25th February 2022
             </h1>
 
             <h1 className="eventsSubheadings">Contact</h1>

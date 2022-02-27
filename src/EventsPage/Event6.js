@@ -146,7 +146,7 @@ There are 2 rounds. Each round has 4 levels. Each level has some points. The par
            
 
      <li>
-Date – 24th February - 25th February 2022.
+Date – 14th (7:30 to 8:30 pm) & 16th March 2022 (6:45 to 8:45 pm).
             </li>
             <li>
 Registration closes 1 hour before the commencement of Round 1.
@@ -211,6 +211,28 @@ Winner will be selected on basis of performance of all 2 Rounds.
           </ol>
           <br />
           <br/>
+          <br/>
+          <h2 className="eventsSubheadings">Registration Fee</h2>
+                   <br/>
+          <p className="descriptionOfEventObjectives"><strong>For Non-IIESTians</strong></p>
+          <br/>
+          <ul className="descriptionOfEventObjectives">
+      <li>
+Rs 40/-
+      </li>      
+            </ul>
+          <br/>
+            <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+          <br/>
+            <ul  className="descriptionOfEventObjectives">
+            <li>
+             Free for Students of IIESTS. 
+            </li>
+            <li>Registrations are to be done through g-form which will be shared later. Keep following our social media pages. <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
+
+</li>
+          </ul>
+          <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
 <ul className="descriptionOfEventObjectives">
@@ -223,8 +245,6 @@ Tannishtha Bag : 8587825869
             </li>       
           </ul>
  <br/>
-
-          <h1 className="eventsSubheadings">Registration is free for IIEST students.</h1>
         </div>
         <div className="registerDiv">
           {loader ? 

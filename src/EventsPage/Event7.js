@@ -187,7 +187,7 @@ Round time: 1 hour.
             </p>
 <br/>
 <br/>
-            <h1 className="eventsSubheadings">Date of the Event : 25th & 26th February 2022.</h1>
+            <h1 className="eventsSubheadings">Date of the Event : 16th (2 to 3 pm) & 17th March 2022 (6 to 7 pm).</h1>
 <br/>
 <br/>
 

@@ -179,13 +179,14 @@ Duration of the event –1.5 hours approximately.
           </ul>
           <br />
           <br/>
-          <h1 className="eventsSubheadings">Team Size : 2</h1>
+          <h1 className="eventsSubheadings">Team Size : 1-2 Members</h1>
 <br/>
 <br/>
            <h2 className="eventsSubheadings">Registration fees per Team</h2>
           <br/>
+          <p className="descriptionOfEventObjectives"><strong>For Non-IIESTians</strong></p>
+          <br/>
           <ul className="descriptionOfEventObjectives">
-          
       <li>
 Rs. 60/-
       </li>      
@@ -196,12 +197,23 @@ Attention:- Only Team Leader should register for the event
             </li>  
             <li>
               <strong>
-              Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration.
               </strong>
             </li>
+            </ul>
+          <br/>
+            <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+          <br/>
+            <ul  className="descriptionOfEventObjectives">
             <li>
              Free for Students of IIESTS. 
             </li>
+            <li>Registrations are to be done through g-form which will be shared later.
+</li>
+<li>
+  Every team member has to fill out the form <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
+
+</li>
           </ul>
           <br/>
           <br/>
@@ -218,7 +230,7 @@ Prize money – Rs 5000, Rs. 3000, Rs. 2000.
           </ul>
           <br/>
           <br/>
-           <h1 className="eventsSubheadings">Date of the Event : 26th & 27th February 2022.</h1>
+           <h1 className="eventsSubheadings">Date of the Event : 16th (3:15 to 4:45 pm) & 17th March 2022 (2 to 3:30 pm).</h1>
 <br/>
 <br/>
            <h1 className="eventsSubheadings">Contact</h1>

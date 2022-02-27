@@ -162,9 +162,7 @@ In the second round, the participants will be given an opportunity to present th
             <li>
               Open to all college students from all over India.
             </li>
-            <li>
-              Startup idea presentation is a must for this competition.
-            </li>
+            
           </ul>
           <br />
           <h2 className="eventsSubheadings">Pre-requisites</h2>
@@ -191,15 +189,36 @@ In the second round, the participants will be given an opportunity to present th
           <br/>
           <h2 className="eventsSubheadings">Registration Fee</h2>
           <br/>
+          <p className="descriptionOfEventObjectives"><strong>For Non-IIESTians</strong></p>
+          <br/>
           <ul className="descriptionOfEventObjectives">
+      <li>
+Rs 100 per team
+      </li>      
+     <li>
+       <strong>
+Attention:- Only Team Leader should register for the event
+       </strong>
+            </li>  
             <li>
-         Rs. 100 per team.
+              <strong>
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration.
+              </strong>
             </li>
-            <li><strong>Attention:- Only Team Leader should register for the event.
-</strong></li>
-            <li><strong>Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
-</strong></li>
-            <li>Free for Students of IIESTS.</li>
+            </ul>
+          <br/>
+            <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+          <br/>
+            <ul  className="descriptionOfEventObjectives">
+            <li>
+             Free for Students of IIESTS. 
+            </li>
+            <li>Registrations are to be done through g-form which will be shared later. Keep following our social media pages.
+</li>
+<li>
+  Every team member has to fill out the form <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
+
+</li>
           </ul>
           <br/>
           {/* <h2 className="eventsSubheadings">Date : 24th February 2022.</h2> */}
@@ -210,7 +229,7 @@ In the second round, the participants will be given an opportunity to present th
     Prize money of Rs. 10,000 to be won.
           </p>
           <br/>
-            <h1 className="eventsSubheadings">Date of event : 24th February 2022 (Round 2)</h1>
+            <h1 className="eventsSubheadings">Date of event : 14th March 2022 (Round 2) (Slot 1 : 2 to 3:15 pm, Slot 2 : 3:45 to 5 pm).</h1>
           <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>

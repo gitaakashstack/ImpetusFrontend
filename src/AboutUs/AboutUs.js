@@ -4,7 +4,7 @@ import "./AboutUs.css";
 import Navbar from "../Navbar/Navbar";
 import Footer from "../Footer/Footer";
 
-import  Sp1 from "../LandingPage/Meta Gate.jpg";
+// import  Sp1 from "../LandingPage/Meta Gate.jpg";
 import  Sp2 from "../LandingPage/RED FM LOGO2.png";
 import  Sp3 from "../LandingPage/namekart logo 2.png";
 import  Sp4 from "../LandingPage/Exergic-Logo.png";
@@ -72,10 +72,10 @@ A number of international societies have their student sections under the SME um
         <div className="team_grid">
           
 
-      <div className="team_grid_div_img" data-aos="flip-up">
+      {/* <div className="team_grid_div_img" data-aos="flip-up">
       <img src={Sp1} alt="Hi" className="team_grid_img" />
       <p className="team_grid_div_p" style={{textShadow : "none"}}>META GATE</p>
-      </div>
+      </div> */}
 
 
         <div className="team_grid_div_img" data-aos="flip-down">

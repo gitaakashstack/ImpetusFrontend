@@ -166,36 +166,43 @@ Roadmap is a team event. Each team will be given a problem statement related to 
               No change in team structure is permitted after the team is registered.
             </li>
           </ul>
-          <br/>
+         <br/>
           <h2 className="eventsSubheadings">Registration Fee</h2>
+                   <br/>
+          <p className="descriptionOfEventObjectives"><strong>For Non-IIESTians</strong></p>
           <br/>
           <ul className="descriptionOfEventObjectives">
-            <li>Rs 30 per team.</li>
+      <li>
+Rs 30/-
+      </li>      
+     <li>
+       <strong>
+Attention:- Only Team Leader should register for the event
+       </strong>
+            </li>  
             <li>
               <strong>
-                Attention:- Only Team Leader should register for the event.
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration.
               </strong>
             </li>
-                        <li>
-              <strong>
-Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
-              </strong>
+            </ul>
+          <br/>
+            <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+          <br/>
+            <ul  className="descriptionOfEventObjectives">
+            <li>
+             Free for Students of IIESTS. 
             </li>
+            <li>Registrations are to be done through g-form which will be shared later. Keep following our social media pages.
+</li>
+<li>
+  Every team member has to fill out the form <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
+
+</li>
           </ul>
           <br/>
-          <h2 className="eventsSubheadings">Rewards</h2>
-          <br/>
-          <ul className="descriptionOfEventObjectives">
-       <li>
-         Cash prize worth Rs. 10000 to be awarded to the winners.
-       </li>
-       <li>
-         Strategy Internships at Namekart.
-       </li>
-        </ul>
-
         
-            <h1 className="eventsSubheadings">Date of the Event : 25th Feb, 2022 (Round 2)</h1>
+            <h1 className="eventsSubheadings">Date of the Event : 15th March 2022 (Round 2) (4:15 to 7:15 pm).</h1>
  <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>

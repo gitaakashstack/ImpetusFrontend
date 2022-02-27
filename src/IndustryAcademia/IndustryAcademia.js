@@ -17,30 +17,30 @@ export default function IndustryAcademia() {
         </div>
   <div className="mainObjective">
     <p className="headingOfEventObjective">
-        Event Objectives
+        Event Details
     </p>
-    <p className="descriptionOfEventObjectives">The Meet will cushion the process of campus engagement between the companies and the institute and provide a holistic perspective to their respective needs. It champi- ons innovative practices, insights, scenarios. The interactive nature of the sessions and expert-led discussion panels will transcend the participants to an enhanced learning experience.</p>
-    <p className="headingOfEventObjective">Key takeaways for the Corporate</p>
+    <p className="descriptionOfEventObjectives">March 20, 2022 - 2-8 PM</p>
+
+    <p className="headingOfEventObjective">
+        About Us
+    </p>
+    <p className="descriptionOfEventObjectives">Industry-Academia Meet is a platform where we aim to establish a productive dialogue between the Industrial and Academic spheres, provide exposure to students and academicians about the current and future scenario of the Industrial environment, and enable them to upskill themselves and be future-proof and Industry- ready.<br/><br/>IMPETUS aims to create strong interactive communication between leading officials from multiple industries, academicians, and prospective students. The meet will cushion the process of campus engagement between the companies and the institute and provide a holistic perspective to their respective needs.<br/><br/>The interactive nature of the sessions and expert- led discussion panels will help the participants to have an enhanced learning experience.</p>
+    <p className="headingOfEventObjective">Benefits</p>
     <ul className="descriptionOfEventObjectives"> 
         <li>
-        Resolving technical issues through projects and consultancy
+        <strong>Industry-Academia Interaction</strong><br/> Active interaction between the industries and scholars of the institute and brainstorming prevalent issues and challenges - paving the way for future collaboration.<br/><br/>
         </li>
         <li>
-        Presentation of viable solutions through sound studies and Research publications by the top-notch academicians of the institute
+        <strong>Strategy Planning</strong><br/> Innovative and time-effective strategies to ease the hiring process.<br/><br/>
         </li>
         <li>
-        Innovative and time-effective strategies to ease the Hiring process
+       <strong>Solutions from Academicians</strong><br/> Presentation of viable solutions through sound studies and research publications by the top- notch academicians of the institute.<br/><br/>
         </li>
 
         <li>
-        Active interaction of the industries with the scholars of the institute and to brainstorm issues and challenges faced by the respective members
+       <strong>Building Industry-to-Industry Connection</strong><br/> An opportunity to interact with prominent delegates from other industries and research institutes during IMPETUS 2022.<br/><br/>
         </li>
-        <li>
-        Understand the insights and rate the institute
-        </li>
-        <li>
-        An opportunity to interact with prominent delegates from other industries and research institutes during IMPETUS 2020
-        </li>
+        
     </ul>
     <p className="headingOfEventObjective">
         Participating stalwarts from the industry

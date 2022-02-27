@@ -28,7 +28,7 @@ export default function CADashboard() {
     });
     if (res.status === 401) {
       window.localStorage.clear();
-      window.location.reload("/");
+      // window.location.reload("/");
     }
     const data = await res.json();
     console.log(data);
@@ -53,6 +53,9 @@ export default function CADashboard() {
       <div className="dashboardBody">
         <div className="campusAmbassFrame">
           <div className="campusBox">
+            <p style={{textAlign : 'center' , fontWeight: '700' , color :'red'}}>
+            <a href="https://chat.whatsapp.com/D4dIMgw7HKF6TRyiTb29Nd">Please join the Campus Ambassador's Whatsapp group Click Here</a>
+            </p>
 <TableContainer component={Paper}>
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
         <TableHead style={{backgroundColor : "#064663"}}>

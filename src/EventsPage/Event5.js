@@ -143,10 +143,10 @@ The questions will be a general quiz with plenty of hints for working out the an
           <h1 className="eventsSubheadings">Flow of the Event</h1>
           <br/>
           <p className="descriptionOfEventObjectives">
-            PRELIMS: Day 1 (26th Feb 2022) - A set of 22 questions carrying 30 marks will be provided to every group and they need to answer and submit within the stipulated time of 1.5 hours. 
+            PRELIMS: Day 1 (16th March 2022) - A set of 22 questions carrying 30 marks will be provided to every group and they need to answer and submit within the stipulated time of 1.5 hours. 
 <br/>
 <br/>
-FINALS: Day 2 (27th Feb 2022) - From the Prelims Six - Eight teams will qualify and they will compete head to head in the Finals for the ultimate glory in a Live Quiz.
+FINALS: Day 2 (17th March 2022) - From the Prelims Six - Eight teams will qualify and they will compete head to head in the Finals for the ultimate glory in a Live Quiz.
           </p>
           <br/>
            <h1 className="eventsSubheadings">Guidelines </h1>
@@ -191,25 +191,39 @@ For both rounds, Zoom/Google Meet would be the platform. So, all the participant
 
 <br/>
           <h2 className="eventsSubheadings">Registration Fee</h2>
+                   <br/>
+          <p className="descriptionOfEventObjectives"><strong>For Non-IIESTians</strong></p>
           <br/>
           <ul className="descriptionOfEventObjectives">
+      <li>
+Rs 80/-
+      </li>      
+     <li>
+       <strong>
+Attention:- Only Team Leader should register for the event
+       </strong>
+            </li>  
             <li>
-            Rs 80/-
+              <strong>
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration.
+              </strong>
             </li>
-            <li><strong>Attention:- Only Team Leader should register for the event.
-</strong></li>
-<li>
-  <strong>
-    Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
-  </strong>
+            </ul>
+          <br/>
+            <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+          <br/>
+            <ul  className="descriptionOfEventObjectives">
+            <li>
+             Free for Students of IIESTS. 
+            </li>
+            <li>Registrations are to be done through g-form which will be shared later. Keep following our social media pages.
 </li>
 <li>
-  Free for Students of IIESTS.
+  Every team member has to fill out the form <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
+
 </li>
           </ul>
-
           <br/>
-
             <h1 className="eventsSubheadings">Rewards </h1>
             <p className="descriptionOfEventObjectives">
  Prizes worth ₹8000/- up for grabs.
@@ -217,7 +231,7 @@ For both rounds, Zoom/Google Meet would be the platform. So, all the participant
 <br/>
 <br/>
 
-            <h1 className="eventsSubheadings">Date : 26th & 27th Feb, 2022  </h1>
+            <h1 className="eventsSubheadings">Date : 16th (5:00 to 6:30 pm) & 17th March, 2022 (3:45 to 5:45 pm).</h1>
 <br/>
 <br/>
 

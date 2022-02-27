@@ -186,12 +186,23 @@ CADegorised is going to be held in 2 rounds. In the first round of the competiti
           <br/>
           <h1 className="eventsSubheadings">Registration Fee</h1>
           <br/>
+          <p className="descriptionOfEventObjectives"><strong>For non-IIESTians</strong></p>
           <ul className="descriptionOfEventObjectives">
             <li>
          Rs. 50
             </li>
+            </ul>
+            <br/>
+          <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+            <ul className="descriptionOfEventObjectives">
             <li>
              Free for Students of IIESTS.
+            </li>
+            <li>
+              Registrations are to be done through g-form which will be shared later. Keep following our social media pages.
+            </li>
+            <li>
+              Please fill this Google form <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
             </li>
           </ul>
           <br/>
@@ -203,7 +214,7 @@ CADegorised is going to be held in 2 rounds. In the first round of the competiti
           </p>
           <br/>
           <br/>
-          <h1 className="eventsSubheadings">Date : 25th to 26th Feb 2022</h1>
+          <h1 className="eventsSubheadings">Date : 15th (7:30 to 8:30 pm) & 17th March 2022 (7:15 to 9:45 pm) </h1>
           <br/>
           <h1 className="eventsSubheadings">Contact</h1>
           <br/>

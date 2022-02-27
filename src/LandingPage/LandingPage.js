@@ -4,7 +4,7 @@ import impetusLogo from "./impetus-logo-navbar copy.png";
 import "./LandingPage.css";
 import { Link, NavLink } from "react-router-dom";
 import Footer from "../Footer/Footer";
-import  Sp1 from "./Meta Gate.jpg";
+// import  Sp1 from "./Meta Gate.jpg";
 import  Sp2 from "./RED FM LOGO2.png";
 import  Sp3 from "./namekart logo 2.png";
 import  Sp4 from "./Exergic-Logo.png";
@@ -28,6 +28,7 @@ export default function LandingPage() {
       <div className="pageCover">
         <img src={impetusLogo} id="logo" alt="hi" />
       </div>
+          <p style={{textAlign : 'center', color:'orangered' , fontWeight: 'bold' , position: 'absolute' , zIndex : '9999' , width : '100%'}}>Website sponsored by Namekart</p>
       <div className="mainContent">
         <div className="impetus">
           <p>
@@ -114,10 +115,10 @@ export default function LandingPage() {
         <div className="team_grid">
           
 
-      <div className="team_grid_div_img" data-aos="fade-right">
+      {/* <div className="team_grid_div_img" data-aos="fade-right">
       <img src={Sp1} alt="Hi" className="team_grid_img" />
       <p className="team_grid_div_p" style={{textShadow : "none"}}>META GATE</p>
-      </div>
+      </div> */}
 
 
         <div className="team_grid_div_img" data-aos="fade-right">

@@ -216,7 +216,7 @@ Details of other team members should be shared by Team Leader through a G-form w
 <br/>
 <br/>
             <h1 className="eventsSubheadings">
-              Date of event: 19th and 20th February 2022.
+              Date of event: 26th and 27th February 2022.
             </h1>
 <br/>
 <br/>

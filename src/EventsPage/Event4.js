@@ -165,10 +165,10 @@ The time required and token remaining at the end of the event will be evaluated 
           <br/>
           <ul className="descriptionOfEventObjectives">
             <li>
-              Registration closes 1 hour before commencement of Round 1.
+              Registration closes <strong>1 day</strong> before the commencement of round 1, i.e. on 11:59 pm, 13th March.
             </li>
             <li>
-             Participants have to form a team of 4 members.
+             Participants have to form a team of 2-4 members.
             </li>
             <li>
              Participants have to be present in the Zoom/meet throughout the event.
@@ -199,22 +199,37 @@ The time required and token remaining at the end of the event will be evaluated 
           <br/>
           <h2 className="eventsSubheadings">Registration Fee</h2>
           <br/>
+          <p className="descriptionOfEventObjectives"><strong>For Non-IIESTians</strong></p>
+          <br/>
           <ul className="descriptionOfEventObjectives">
+      <li>
+Rs 160 per team
+      </li>      
+     <li>
+       <strong>
+Attention:- Only Team Leader should register for the event
+       </strong>
+            </li>  
             <li>
-            Rs 160/-
+              <strong>
+Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration.
+              </strong>
             </li>
-            <li><strong>Attention:- Only Team Leader should register for the event.
-</strong></li>
-<li>
-  <strong>
-    Details of other team members should be shared by Team Leader through a G-form which will be sent to them after registration. 
-  </strong>
+            </ul>
+          <br/>
+            <p className="descriptionOfEventObjectives"><strong>For IIESTians</strong></p>
+          <br/>
+            <ul  className="descriptionOfEventObjectives">
+            <li>
+             Free for Students of IIESTS. 
+            </li>
+            <li>Registrations are to be done through g-form which will be shared later. Keep following our social media pages.
 </li>
 <li>
-  Free for Students of IIESTS.
+  Every team member has to fill out the form <a href="https://forms.gle/uHauDmay1cuULTeu7" style={{color: 'orangered', fontWeight : 'bold'}}>Click Here</a>
+
 </li>
           </ul>
-
           <br/>
           <br/>
            <h2 className="eventsSubheadings">Rewards </h2>
@@ -223,7 +238,7 @@ The time required and token remaining at the end of the event will be evaluated 
             Rs 15,000/-
           </p>
           <br />
-            <h1 className="eventsSubheadings">Date of the Event : 24th & 25th February 2022</h1>
+            <h1 className="eventsSubheadings">Date of the Event : 14th (5:15 to 7:15 pm) & 15th March 2022 (2 to 4 pm).</h1>
 <br/>
             <h1 className="eventsSubheadings">Contact</h1>
 <br/>
